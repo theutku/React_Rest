@@ -1,2 +1,2 @@
-# A Simple Weather Application using React, NodeJS and MySQL
+# A Simple Weather Application using React, NodeJS and MySQL and TypeScript
 The application uses OpenWeatherMap API as data source. Just input your API KEY and database connection parmeters in your launch file and you are good to go.
