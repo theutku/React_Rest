@@ -1,1 +1,2 @@
-# React_Rest
+# A Simple Weather Application using React, NodeJS and MySQL
+The application uses OpenWeatherMap API as data source. Just input your API KEY and database connection parmeters in your launch file and you are good to go.
